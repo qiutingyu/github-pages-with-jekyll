@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Visual Story
 
-I'm glad you are here. I plan to talk about ...
+Here I will present all my work.
